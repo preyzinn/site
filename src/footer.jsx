@@ -1,7 +1,7 @@
-
+import './styles/home.css'
 function Footer(){
     return(
-        <footer>
+        <footer className="footer">
             <h1>Site copyright bla bla bla</h1>
         </footer>
     );

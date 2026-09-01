@@ -11,11 +11,13 @@ function App() {
   return (
     <>
     <Header></Header>
+    <div className="site-content">
     <Home></Home>
     <Categorias></Categorias>
     <Postagens_destaque></Postagens_destaque>
     <Extras></Extras>
     <Footer></Footer>
+    </div>
     </>
   );
   

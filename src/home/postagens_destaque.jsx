@@ -1,10 +1,16 @@
-
+import '../styles/home.css'
 function Postagens_destaque() {
     return(
-        <div>
+        <div className="botoes">
             <h1>Posts em destaque</h1>
             <h2>Descubra os posts mais populares e relevantes do momento</h2>
-            <button>Explorar Posts em Destaque</button>
+            <div>
+                    <h1>Postagem 1</h1>
+                    <h1>Postagem 2</h1>
+                    <h1>Postagem 3</h1>
+
+
+            </div>
         </div>
     );
 }

@@ -1,0 +1,53 @@
+
+    .inicio{
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+
+    }
+
+    .inicio h1{
+        font-size: 2rem;
+        color: #333;
+    }
+
+    .inicio h2{
+        font-size: 1.25rem;
+        color: #2be905;
+    }
+
+    .botoes button{
+    margin-right: 20px;
+    flex-direction: row; 
+    }
+
+
+
+
+
+    .categorias{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1px;
+    }
+
+    .categorias button{
+
+        margin-right: 20px;
+    }
+
+
+
+
+
+
+
+
+    .footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 1px;
+        font-size: 0.9rem;
+    }

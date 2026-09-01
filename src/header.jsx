@@ -11,7 +11,6 @@ function Header(){
                 <a href="/destaques">Destaques</a>
                 <a href="/assinar">Assinar</a>
                 <a href="/admin">Admin</a>
-                
                 <input type="search" placeholder="Pesquisar" aria-label="Pesquisar" />
                 <a href="/admin">Buscar</a>
                 <a href="/login">Entrar</a>

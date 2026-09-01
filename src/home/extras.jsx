@@ -1,8 +1,8 @@
-
+import '../styles/home.css'
   function Extras() {
     return (
-      <sexo>
-        <nav>
+      <sexo className="botoes">
+        <nav >
           <ul>
             <button>Instagram</button>
             <button>Work</button>
